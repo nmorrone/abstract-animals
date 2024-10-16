@@ -25,6 +25,7 @@ public class Main2{
 			AnimaliNuotanti delfino = new Delfino();
 			System.out.println("Sono un Delfino!");
 			faiNuotare(delfino);
+			delfino.infoAnimale();
 			break;
 		}
 		case 2:{
